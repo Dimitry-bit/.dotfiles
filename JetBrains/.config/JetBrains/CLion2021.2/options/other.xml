@@ -1,0 +1,135 @@
+<application>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="22AI6RJBgrw6ZAdWll3BEG6Ste0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23DTDd0DiG88lzG5F2Syiu06Lmm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23oF2RVvHPAgIAA3IMb6ORoiGaf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="247JhlVffEHTHzg8aV73RFAenVE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="247JpXOcWM0QQ7dq3Y1gaAFhNpc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24Aj9PTk5nTl26kMUENH7ArQglU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24AkdJqpzlKMLdPDTExNKubRB0q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24ApQX75KruwmBwh7axPPLQZjXV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24AqXHyqON6FM95u9Jtw4ss3mDf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24AqyOQB6L8d4P8iX0DLAd52rkF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24ArkNOXrnCyIKg7nkffpzKCXAf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24J5If8t96bDwGzCZDPDHgpMikr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24KkRiRgr7b8anebGSp0q5Q2FQX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24Klk6oxeNgpoCoP9QGSFzGgtix">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Other" />
+    <property name="FileTemplates.SelectedTemplate" value="c.executable.CMakeLists" />
+    <property name="InstalledPluginsSearchHistory" value="project&#10;new project template&#10;create file&#10;rider&#10;rid" />
+    <property name="KEYMAP" value="Debugging actions&#10;step in&#10;debugger&#10;refactor this" />
+    <property name="MarketplacePluginsSearchHistory" value="one&#10;rider&#10;eval&#10;intellij shortcuts&#10;intellij shortc" />
+    <property name="NextRunPlatformUpdateBuild" value="CL-212.5712.21/2021.2.4" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="cmake&#10;template&#10;main.h&#10;main.c&#10;cmake template" />
+    <property name="appcds.runOnSecondStart" value="CL-212.5080.54-24c600111926ac468d85a3723e5cdcda7c95581c6338ed172d4f928e983cbd8b" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="evlsprt.212" value="17ed7419a38" />
+    <property name="evlsprt2.212" value="17e8f3222ed" />
+    <property name="evlsprt3.212" value="14" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Programming_Projects/C&#10;/home/dimitry/Documents/Programming_Projects/C/XO&#10;/home/dimitry" />
+    <property name="file.gist.reindex.count" value="219" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.updates.previous.build.number" value="CL-212.5080.54" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="ideavim.statistics.timestamp" value="1643501469826" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Programming_Projects/C" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-212.5080.54" />
+    <property name="selected.color.option.type" value="MAKEFILE_PREREQUISITE" />
+    <property name="settings.code.style.selected.tab.CMake" value="Other" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Blank Lines" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Exercise_1_14-history" project-path="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14" last-access-time="1643257452135" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

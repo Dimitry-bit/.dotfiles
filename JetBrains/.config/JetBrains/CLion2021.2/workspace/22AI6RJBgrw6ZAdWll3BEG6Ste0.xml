@@ -1,0 +1,289 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="XO" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#386#565#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1936">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/core.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1232">
+              <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/renderer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>;w</find>
+      <find>:w</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/include/core_internal.h" />
+      <option value="$PROJECT_DIR$/include/renderer.h" />
+      <option value="$PROJECT_DIR$/src/renderer.c" />
+      <option value="$PROJECT_DIR$/src/main.c" />
+      <option value="$PROJECT_DIR$/src/core.c" />
+      <option value="$PROJECT_DIR$/include/core.h" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="XO-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31215000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2502604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32994792" />
+      <window_info id="Commit" order="3" weight="0.32994792" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.49973375" side_tool="true" weight="0.40009746" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32992202" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32992202" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.50026625" weight="0.40009746" />
+      <window_info anchor="bottom" id="Eval Reset" order="5" visible="true" weight="0.32992202" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32992202" />
+      <window_info anchor="bottom" id="Problems View" order="7" weight="0.32992202" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32992202" />
+      <window_info anchor="bottom" id="clangd" order="12" />
+      <window_info anchor="bottom" id="CMake" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Python Packages" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.32992202" />
+      <window_info anchor="bottom" id="Flow" order="18" />
+      <window_info anchor="bottom" id="Services" order="19" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Find</value>
+      <value>Debug</value>
+      <value>TODO</value>
+      <value>Terminal</value>
+      <value>Event Log</value>
+      <value>Eval Reset</value>
+      <value>Problems View</value>
+      <value>Favorites</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="856" y="425" width="196" height="201" key="#Custom_Plugin_Repositories" timestamp="1641268513465">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="856" y="425" width="196" height="201" key="#Custom_Plugin_Repositories/0.0.1920.1055@0.0.1920.1055" timestamp="1641268513465" />
+    <state x="693" y="277" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1641871144423">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="693" y="277" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1055@0.0.1920.1055" timestamp="1641871144423" />
+    <state width="281" height="112" key="DebuggerActiveHint" timestamp="1641869411406">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="281" height="112" key="DebuggerActiveHint/0.0.1920.1055@0.0.1920.1055" timestamp="1641869411406" />
+    <state width="1878" height="310" key="GridCell.Tab.0.bottom" timestamp="1642124834529">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1055@0.0.1920.1055" timestamp="1642124834529" />
+    <state width="1878" height="310" key="GridCell.Tab.0.center" timestamp="1642124834529">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="310" key="GridCell.Tab.0.center/0.0.1920.1055@0.0.1920.1055" timestamp="1642124834529" />
+    <state width="1878" height="310" key="GridCell.Tab.0.left" timestamp="1642124834529">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="310" key="GridCell.Tab.0.left/0.0.1920.1055@0.0.1920.1055" timestamp="1642124834529" />
+    <state width="1878" height="310" key="GridCell.Tab.0.right" timestamp="1642124834529">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="310" key="GridCell.Tab.0.right/0.0.1920.1055@0.0.1920.1055" timestamp="1642124834529" />
+    <state width="1878" height="382" key="GridCell.Tab.1.bottom" timestamp="1641871435170">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="382" key="GridCell.Tab.1.bottom/0.0.1920.1055@0.0.1920.1055" timestamp="1641871435170" />
+    <state width="1878" height="382" key="GridCell.Tab.1.center" timestamp="1641871435169">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="382" key="GridCell.Tab.1.center/0.0.1920.1055@0.0.1920.1055" timestamp="1641871435169" />
+    <state width="1878" height="382" key="GridCell.Tab.1.left" timestamp="1641871435169">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="382" key="GridCell.Tab.1.left/0.0.1920.1055@0.0.1920.1055" timestamp="1641871435169" />
+    <state width="1878" height="382" key="GridCell.Tab.1.right" timestamp="1641871435170">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="382" key="GridCell.Tab.1.right/0.0.1920.1055@0.0.1920.1055" timestamp="1641871435170" />
+    <state x="205" y="162" width="1258" height="730" key="SettingsEditor" timestamp="1641869274016">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="205" y="162" width="1258" height="730" key="SettingsEditor/0.0.1920.1055@0.0.1920.1055" timestamp="1641869274016" />
+    <state x="681" y="319" width="548" height="406" key="refactoring.ChangeSignatureDialog" timestamp="1641700746456">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="681" y="319" width="548" height="406" key="refactoring.ChangeSignatureDialog/0.0.1920.1055@0.0.1920.1055" timestamp="1641700746456" />
+    <state x="623" y="232" width="672" height="684" key="search.everywhere.popup" timestamp="1641518461319">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="623" y="232" width="672" height="684" key="search.everywhere.popup/0.0.1920.1055@0.0.1920.1055" timestamp="1641518461319" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1665" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="495" column="11" selection-start-line="495" selection-start-column="11" selection-end-line="495" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://12" />
+    <entry file="file://$PROJECT_DIR$/include/core_internal.h" />
+    <entry file="file://$PROJECT_DIR$/src/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#386#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1936">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/core.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/renderer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
