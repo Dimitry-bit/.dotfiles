@@ -40,13 +40,25 @@
         </entry>
         <entry key="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18">
           <value>
-            <RecentProjectMetaInfo frameTitle="Exercise_1_18 – main.c" opened="true" projectWorkspaceId="24Klk6oxeNgpoCoP9QGSFzGgtix">
+            <RecentProjectMetaInfo frameTitle="Exercise_1_18" projectWorkspaceId="24Klk6oxeNgpoCoP9QGSFzGgtix">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="CL-212.5080.54" />
-              <option name="buildTimestamp" value="1629791716049" />
+              <option name="buildTimestamp" value="1629791726337" />
               <frame x="-1" y="0" width="1922" height="1055" extendedState="6" />
               <option name="productionCode" value="CL" />
-              <option name="projectOpenTimestamp" value="1643577811118" />
+              <option name="projectOpenTimestamp" value="1643851327425" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Exercise_1_19 – main.c" opened="true" projectWorkspaceId="24ZQfftCDlYDbKSmXeAkIoJRqEO">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.5080.54" />
+              <option name="buildTimestamp" value="1629791707354" />
+              <frame x="-1" y="0" width="1922" height="1055" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1643853194586" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

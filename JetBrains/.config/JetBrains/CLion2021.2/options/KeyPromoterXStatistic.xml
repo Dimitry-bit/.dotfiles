@@ -24,7 +24,7 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug</Description>
           <Count>7</Count>
-          <Hit>13</Hit>
+          <Hit>20</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">
@@ -41,7 +41,7 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>1</Count>
-          <Hit>44</Hit>
+          <Hit>58</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'main.c'">
@@ -74,7 +74,7 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run</Description>
           <Count>13</Count>
-          <Hit>234</Hit>
+          <Hit>250</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Run...">
@@ -90,8 +90,8 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>18</Count>
-          <Hit>13</Hit>
+          <Count>19</Count>
+          <Hit>15</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">

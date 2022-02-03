@@ -40,7 +40,7 @@ colors
 PROMPT_EOL_MARK=""                                # hide EOL sign ('%')
 
 echo -ne '\e[5 q'                                 # Use beam shape cursor on startup.
-# preexec() { echo -ne '\e[5 q' ;}                  # Use beam shape cursor for each new prompt.
+preexec() { echo -ne '\e[5 q' ;}                  # Use beam shape cursor for each new prompt.
 
 # configure key keybindings
 bindkey ' ' magic-space                           # do history expansion on space

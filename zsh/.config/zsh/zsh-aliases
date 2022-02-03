@@ -1,4 +1,5 @@
 alias nvimrc='nvim ~/.config/nvim/'
+alias cprojects='$HOME/Documents/Programming_Projects/C'
 
 # Colorize output
 alias ls='lsd'
