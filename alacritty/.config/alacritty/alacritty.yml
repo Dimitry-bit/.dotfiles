@@ -23,7 +23,7 @@ window:
   # Available values:
   # - full: borders and title bar
   # - none: neither borders nor title bar
-  decorations: full
+  decorations: none
 
   # Startup Mode (changes require restart)
   #
@@ -35,7 +35,11 @@ window:
   # Values for `startup_mode` (macOS only):
   #   - SimpleFullscreen
   startup_mode: Windowed
-           # Font configuration (changes require restart)
+
+  # Background opacity
+  opacity: 0.95
+  
+  # Font configuration (changes require restart)
 font:
   # The normal (roman) font face to use.
   normal:
@@ -132,9 +136,6 @@ colors:
   #indexed_colors:
   #  - { index: 16, color: '0x000000' }
      
-# Background opacity
-background_opacity: 1.0
-
 cursor:
  # Cursor style
  #
@@ -142,7 +143,10 @@ cursor:
  #   - ▇ Block
  #   - _ Underline
  #   - | Beam
- style: Block
+ style:
+   shape: Underline
+   blinking: Always
+   # blink_interval: 500
 
   # If this is `true`, the cursor will be rendered as a hollow box when the
   # window is not focused.
