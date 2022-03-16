@@ -7,8 +7,25 @@
           <configuration PROFILE_NAME="Release" ENABLED="true" GENERATION_DIR="$PROJECT_DIR$/out/build/release" CONFIG_NAME="Release" />
         </configurations>
       </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>XML</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>C/C++</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="proofread" />
+        <property name="settings.editor.selected.configurable" value="preferences.general" />
       </component>
     </defaultProject>
   </component>

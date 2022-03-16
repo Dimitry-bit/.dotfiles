@@ -7,7 +7,7 @@
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build 'Exercise_1_14'</Description>
           <Count>1</Count>
-          <Hit>25</Hit>
+          <Hit>49</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Commit">
@@ -23,8 +23,8 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>7</Count>
-          <Hit>20</Hit>
+          <Count>10</Count>
+          <Hit>42</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">
@@ -35,13 +35,21 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="New Scratch File">
+        <Item>
+          <IdeaActionID>NewScratchFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
+          <Description>New Scratch File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>1</Count>
-          <Hit>58</Hit>
+          <Count>2</Count>
+          <Hit>86</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'main.c'">
@@ -50,6 +58,7 @@
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile 'main.c'</Description>
           <Count>1</Count>
+          <Hit>3</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Remove from Recent Projects">
@@ -57,7 +66,15 @@
           <IdeaActionID>WelcomeScreen.RemoveSelected</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove from Recent Projects</Description>
-          <Count>2</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'XO'">
@@ -68,13 +85,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>10</Count>
+          <Hit>1</Hit>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run</Description>
           <Count>13</Count>
-          <Hit>250</Hit>
+          <Hit>279</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Run...">
@@ -90,8 +116,8 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>19</Count>
-          <Hit>15</Hit>
+          <Count>20</Count>
+          <Hit>21</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -132,8 +158,25 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3</Count>
-          <Hit>13</Hit>
+          <Count>4</Count>
+          <Hit>363</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Exercise_1_19'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Exercise_1_19'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Exercise_1_22'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Exercise_1_22'</Description>
+          <Count>1</Count>
+          <Hit>2</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Hello'">
@@ -159,16 +202,19 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1</Count>
-          <Hit>8</Hit>
+          <Count>2</Count>
+          <Hit>10</Hit>
         </Item>
       </Statistic>
+    </option>
+    <option name="suppressed">
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>5</Count>
+          <Count>16</Count>
+          <Hit>2</Hit>
         </Item>
       </Statistic>
     </option>

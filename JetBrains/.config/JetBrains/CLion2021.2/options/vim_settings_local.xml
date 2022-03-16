@@ -9,19 +9,20 @@
         <entry encoding="base64">cmV0dXJu</entry>
         <entry encoding="base64">c3RyaW5nX2xlbmd0aA==</entry>
         <entry encoding="base64">c3RybGVu</entry>
+        <entry encoding="base64">Zm9sZF9saW5l</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">THc=</entry>
         <entry encoding="base64">Onc=</entry>
         <entry encoding="base64">d3M=</entry>
-        <entry encoding="base64">cQ==</entry>
         <entry encoding="base64">c3c=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">d3E=</entry>
-        <entry encoding="base64">Ym5leHQ=</entry>
-        <entry encoding="base64" />
-        <entry encoding="base64">Vw==</entry>
         <entry encoding="base64">cWEh</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">Ym5leHQ=</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64" />
         <entry encoding="base64">dw==</entry>
       </history-cmd>
       <history-expr />
@@ -31,17 +32,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1643813653691">
+      <file name="/GDB" timestamp="1646191990767">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/XO/include/core.h" timestamp="1642123782539">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="23" />
-        <mark key="]" line="54" column="29" />
-        <mark key="." line="54" column="28" />
-        <mark key="^" line="54" column="29" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1643081187352">
+      <file name="/Dummy.txt" timestamp="1646192965590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-16/src/main.c" timestamp="1643341742531">
@@ -51,6 +45,13 @@
         <mark key="." line="35" column="92" />
         <mark key="^" line="35" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-21/src/main.c" timestamp="1644381972809">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="62" column="61" />
+        <mark key="]" line="62" column="61" />
+        <mark key="." line="62" column="62" />
+        <mark key="^" line="62" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" timestamp="1643852139404">
         <mark key="'" line="104" column="18" />
         <mark key="[" line="81" column="18" />
@@ -58,12 +59,8 @@
         <mark key="^" line="113" column="18" />
         <mark key="." line="81" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/XO/src/core.c" timestamp="1642124706399">
-        <mark key="'" line="184" column="31" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-        <mark key="^" line="120" column="4" />
+      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/CMakeLists.txt" timestamp="1644681581959">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/include/main.h" timestamp="1643083459901">
         <mark key="[" line="5" column="11" />
@@ -71,20 +68,29 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" timestamp="1646622335768">
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="56" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c_CLION_FRAGMENT_SEPARATOR_fragment.c" timestamp="1646193015597">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/lamo.c" timestamp="1643084447562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" timestamp="1643852742873">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="79" column="46" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" timestamp="1643930050886">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="102" column="12" />
+        <mark key="^" line="102" column="13" />
       </file>
       <file name="/usr/include/string.h" timestamp="1643851990692">
         <mark key="'" line="188" column="21" />
       </file>
-      <file name="/" timestamp="1643084333216">
+      <file name="/" timestamp="1644376689766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-17/src/main.c" timestamp="1643387189272">
@@ -94,29 +100,25 @@
         <mark key="^" line="31" column="12" />
         <mark key="." line="31" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/Hello/CMakeLists.txt" timestamp="1642973818815">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-20/src/main.c" timestamp="1644382456277">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="52" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/XO/src/main.c" timestamp="1642124006330">
-        <mark key="'" line="1" column="18" />
-        <mark key="j" line="1" column="0" />
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="41" />
-        <mark key="^" line="33" column="42" />
+      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-20/src/main.c_CLION_FRAGMENT_SEPARATOR_fragment.c" timestamp="1644355304507">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.h" timestamp="1643083094330">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="14" />
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1644355271935">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" timestamp="1643258214246">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="18" />
-        <mark key="^" line="18" column="10" />
+      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" timestamp="1646421899912">
+        <mark key="'" line="28" column="37" />
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="44" column="22" />
+        <mark key="." line="44" column="21" />
+        <mark key="^" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/CMakeLists.txt" timestamp="1643084327969">
         <mark key="[" line="4" column="0" />
@@ -124,173 +126,163 @@
         <mark key="^" line="5" column="55" />
         <mark key="." line="5" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/Hello/main.c" timestamp="1642975648728">
-        <mark key="[" line="61" column="1" />
-        <mark key="]" line="61" column="1" />
-        <mark key="^" line="61" column="1" />
-        <mark key="." line="61" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/Input_Histogram/main.c" timestamp="1642975983159">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/help.h" timestamp="1643083008661">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" timestamp="1646275638095">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="0" column="79" />
+        <mark key="]" line="0" column="80" />
+        <mark key="." line="0" column="79" />
+        <mark key="^" line="0" column="80" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="20" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" />
-      <jump line="41" column="17" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" />
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" />
-      <jump line="43" column="17" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-16/src/main.c" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-16/src/main.c" />
-      <jump line="26" column="54" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-16/src/main.c" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-17/src/main.c" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-17/src/main.c" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="83" column="40" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="19" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="78" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="20" column="12" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="44" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="17" column="28" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="18" column="40" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="21" column="24" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="10" column="34" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="55" column="30" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="52" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="66" column="3" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="8" column="22" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="69" column="19" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="27" column="32" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="73" column="11" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="81" column="11" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="6" column="21" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="77" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="56" column="18" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="95" column="12" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="96" column="11" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="99" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="54" column="21" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="97" column="16" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="58" column="16" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="100" column="11" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="101" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="22" column="8" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="16" column="9" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="23" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="12" column="14" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="25" column="8" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="64" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="27" column="29" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="129" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="28" column="8" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="88" column="22" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="45" column="15" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="121" column="26" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="115" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="25" column="14" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="83" column="13" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="104" column="51" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="78" column="9" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="69" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="118" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="13" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="64" column="12" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="62" column="13" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="23" column="20" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="86" column="14" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="120" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="30" column="8" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="390" column="14" filename="/usr/include/string.h" />
-      <jump line="188" column="21" filename="/usr/include/string.h" />
-      <jump line="60" column="11" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="104" column="18" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-18/src/main.c" />
-      <jump line="3" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19/src/main.c" />
+      <jump line="12" column="46" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="70" column="34" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="65" column="20" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="92" column="11" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="16" column="2" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="97" column="16" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/CMakeLists.txt" />
+      <jump line="61" column="43" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="107" column="26" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="35" column="8" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="120" column="45" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="42" column="39" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="46" column="8" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="104" column="19" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="139" column="3" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="28" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="40" column="35" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="48" column="11" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="156" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="158" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="157" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="51" column="48" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="178" column="12" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="53" column="50" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="54" column="16" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="9" column="28" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="11" column="23" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="160" column="16" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="80" column="31" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="68" column="5" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="63" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="25" column="33" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="185" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="181" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="49" column="12" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="23" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="163" column="71" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="175" column="26" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="140" column="4" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="165" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="180" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22/src/main.c" />
+      <jump line="46" column="25" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" />
+      <jump line="3" column="37" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" />
+      <jump line="25" column="46" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" />
+      <jump line="28" column="37" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14/src/main.c" />
+      <jump line="123" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="128" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="136" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="141" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="144" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="147" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="63" column="9" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="88" column="1" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="44" column="16" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="28" column="17" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/src/main.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFJlbW92ZSB6ZXJvLWNoYXJhY3RlciAnXDAnCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">XA==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIC8vIFJlbW92ZSB6ZXJvLWNoYXJhY3RlciAnXDAnCg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">XA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">XA==</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">Y3VycmVudF9jaGFydXJyZW50X2NoYXI=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">c3RybGVu</text>
+        <text encoding="base64">Zm9sZF9saW5l</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoInN0cmluZ19sZW5ndGggPSAlZFxuIiwgc3RyaW5nX2xlbmd0aChsaW5lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dGNoYXIoY3VycmVudF9jaGFyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFJlbW92ZSB6ZXJvLWNoYXJhY3RlciAnXDAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCJcXFxcIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmdfbGVuZ3RoKGxpbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCJcXFxcIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RyaW5nX2xlbmd0aCgpID49IDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCJDb21tZW50Iik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiQ29tbWVudCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oRGltaXRyeSk6IFJlbW92ZSBuZXdsaW5lIGNoYXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oRGltaXRyeSk6IERlYnVnIHRoaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oRGltaXRyeSk6IFJlbW92ZSBuZXdsaW5lIGNoYXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzX2VzY2FwZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFJlbW92ZSB6ZXJvLWNoYXJhY3RlciAnXDAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGkgPSBpIC0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dGNoYXIoY3VycmVudF9jaGFyKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">dw==</text>
@@ -299,8 +291,8 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">c3RybGVu</last-search>
-      <last-pattern encoding="base64">c3RybGVu</last-pattern>
+      <last-search encoding="base64">Zm9sZF9saW5l</last-search>
+      <last-pattern encoding="base64">Zm9sZF9saW5l</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>

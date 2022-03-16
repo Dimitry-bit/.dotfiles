@@ -84,6 +84,36 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="24cUzg77DJebwWTaXSiJsJclt4n">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24hDbqwQmuOq8m0WYjPwo5PafFK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24zN1MJYC5JngtidYVKaGrpiNSi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25vug6HSh3P4N8OtPn4HyRj4KHw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25vyhr13pb5GvH59dawwcZBHOwJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25vz6gdgUD545UCHCRo0pCHuqJm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
         <entry key="Default (Template) Project">
           <value>
             <ProjectPluginTracker />
@@ -98,29 +128,29 @@
     <property name="FileTemplates.SelectedTemplate" value="c.executable.CMakeLists" />
     <property name="InstalledPluginsSearchHistory" value="extra&#10;extr&#10;ext&#10;ex&#10;e" />
     <property name="KEYMAP" value="Debugging actions&#10;step in&#10;debugger&#10;refactor this" />
-    <property name="MarketplacePluginsSearchHistory" value="extra&#10;randomnes&#10;randomn&#10;rad&#10;ra" />
+    <property name="MarketplacePluginsSearchHistory" value="theme /sortBy:downloads&#10;theme&#10;cherno&#10;intellij keybindings&#10;intellij keybin" />
     <property name="NextRunPlatformUpdateBuild" value="CL-212.5712.21/2021.2.4" />
     <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
-    <property name="SettingsSearchHistory" value="extra&#10;cmake&#10;template&#10;main.h&#10;main.c" />
+    <property name="SettingsSearchHistory" value="theme&#10;input redirection&#10;input&#10;debugger&#10;terminal" />
     <property name="appcds.runOnSecondStart" value="CL-212.5080.54-fbc3c802c5e3e2475b3065fb3739b9db6a92a92f7592f6e2d56433f9e74ec87c" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="clion.initialConfigPerformed" value="true" />
-    <property name="evlsprt3.212" value="10" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Programming_Projects/C&#10;/home/dimitry/Documents/Programming_Projects/C/XO&#10;/home/dimitry" />
-    <property name="file.gist.reindex.count" value="239" />
+    <property name="evlsprt3.212" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/CMakeLists.txt&#10;/home/dimitry/Documents/Programming_Projects/C/KR2/Exercise_1-14&#10;/home/dimitry/Documents/Programming_Projects/C/KR2/Exercise_1-22/test.txt&#10;/home/dimitry/Documents/Programming_Projects/C/KR2/Exercise_1-21/test.txt&#10;/home/dimitry/Documents/Programming_Projects/C&#10;/home/dimitry/Documents/Programming_Projects/C/XO&#10;/home/dimitry" />
+    <property name="file.gist.reindex.count" value="350" />
     <property name="fileTypeChangedCounter" value="2" />
     <property name="fileTypeDetectors" value="com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.updates.previous.build.number" value="CL-212.5080.54" />
     <property name="ide.updates.whats.new.shown.for" value="212" />
-    <property name="ideavim.statistics.timestamp" value="1643815674805" />
+    <property name="ideavim.statistics.timestamp" value="1646617342779" />
     <property name="input.method.disabler.muted" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Programming_Projects/C" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14" />
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
     <property name="registry.to.advanced.settings.migration.build" value="CL-212.5080.54" />
-    <property name="selected.color.option.type" value="MAKEFILE_PREREQUISITE" />
+    <property name="selected.color.option.type" value="HTTP_REQUEST_INPUT_FILE" />
     <property name="settings.code.style.selected.tab.CMake" value="Other" />
     <property name="settings.code.style.selected.tab.ObjectiveC" value="Blank Lines" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
@@ -128,7 +158,8 @@
   </component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="Exercise_1_14-history" project-path="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14" last-access-time="1643257452135" />
+      <command-history-file filename="Exercise_1_22-history" project-path="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-22" last-access-time="1646191181123" />
+      <command-history-file filename="Exercise_1_19-history" project-path="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-19" last-access-time="1643854149783" />
     </command-history-files>
   </component>
   <component name="ToolbarSettingsService">
