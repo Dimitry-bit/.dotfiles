@@ -4,7 +4,9 @@
       <map>
         <entry key="AnnotationsAndDiffs.html" value="1641932478225" />
         <entry key="CancelByControlArrows.html" value="1644354984236" />
+        <entry key="ChangeSignature.html" value="1648783701830" />
         <entry key="ClipboardStack.html" value="1643341095342" />
+        <entry key="CloseOthers.html" value="1648522667347" />
         <entry key="CompareEditorWithClipboard.html" value="1644354969111" />
         <entry key="CompleteStatement.html" value="1641696898092" />
         <entry key="CopyWithNoSelection.html" value="1641932443445" />
@@ -18,11 +20,14 @@
         <entry key="LiveTemplatesRestore.html" value="1642967972826" />
         <entry key="MenuItemsDescriptions.html" value="1643501474309" />
         <entry key="MethodSeparators.html" value="1641932452364" />
+        <entry key="Move.html" value="1648696238837" />
         <entry key="NonSuspendingBreakpoints.html" value="1643253760228" />
         <entry key="PredefinedCodeStyle.html" value="1644354981629" />
         <entry key="PreviewTODO.html" value="1644074004415" />
         <entry key="PullMembers.html" value="1646419995989" />
         <entry key="QuickDocInSuggestionList.html" value="1644629244754" />
+        <entry key="QuickJavaDocInLookups.html" value="1647871804229" />
+        <entry key="QuickSwitchScheme.html" value="1648253688728" />
         <entry key="RecentSearch.html" value="1644354983423" />
         <entry key="RunTests.html" value="1641932434202" />
         <entry key="SearchForGit.html" value="1644354985812" />
@@ -33,6 +38,8 @@
         <entry key="SpellcheckerDictionaries.html" value="1641785079926" />
         <entry key="TabInEditorClose.html" value="1642085235293" />
         <entry key="TabInLookups.html" value="1641932438385" />
+        <entry key="VcsQuickList.html" value="1648074922100" />
+        <entry key="jump_to_colors_fonts.html" value="1648429751747" />
         <entry key="local_history.html" value="1644354985021" />
         <entry key="pull_requests.html" value="1646187986021" />
         <entry key="recent-locations.html" value="1645655898788" />

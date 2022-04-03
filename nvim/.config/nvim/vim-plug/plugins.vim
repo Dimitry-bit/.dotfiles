@@ -15,7 +15,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Sudo inside files
     Plug 'lambdalisue/suda.vim'
     " Autocompletion && Code analyser.
-    Plug 'neoclide/coc.nvim', {'branch': 'release'}
+    " Plug 'neoclide/coc.nvim', {'branch': 'release'}
     " Vim-Commentary
     Plug 'tpope/vim-commentary'
 
@@ -48,6 +48,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'voldikss/vim-floaterm'
 
     " Statusbar
-    Plug 'vim-airline/vim-airline'
+    " Plug 'vim-airline/vim-airline'
+    Plug 'nvim-lualine/lualine.nvim'
+    " If you want to have icons in your statusline choose one of these
+    Plug 'kyazdani42/nvim-web-devicons'
 
 call plug#end()
