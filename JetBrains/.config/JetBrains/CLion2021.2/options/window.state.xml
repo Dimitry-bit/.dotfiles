@@ -1,16 +1,16 @@
 <application>
   <component name="DimensionService">
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1874" height="305" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1874" height="305" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1874" height="305" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1874" height="305" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1874" height="381" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1874" height="381" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1874" height="381" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1874" height="381" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1870" height="376" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1870" height="376" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1870" height="376" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1870" height="376" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1870" height="376" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1870" height="376" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1870" height="376" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1870" height="376" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+    <frame x="0" y="118" width="1910" height="786" extendedState="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -30,12 +30,12 @@
       <screen x="0" y="0" width="1920" height="1055" />
     </state>
     <state x="456" y="162" width="1007" height="731" key="SettingsEditor/0.0.1920.1055" timestamp="1644643939132" />
-    <state x="960" y="556" width="1920" height="1048" key="WELCOME_SCREEN" timestamp="1648789301557">
+    <state x="960" y="556" width="1920" height="1048" key="WELCOME_SCREEN" timestamp="1649134998029">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="960" y="527" width="1920" height="1054" key="WELCOME_SCREEN/0.0.1920.1055" timestamp="1645018764400" />
     <state x="960" y="552" width="1920" height="1054" key="WELCOME_SCREEN/0.25.1920.1055" timestamp="1646617722044" />
-    <state x="960" y="556" width="1920" height="1048" key="WELCOME_SCREEN/0.32.1920.1048" timestamp="1648789301557" />
+    <state x="960" y="556" width="1920" height="1048" key="WELCOME_SCREEN/0.32.1920.1048" timestamp="1649134998029" />
     <state x="2880" y="535" width="1920" height="1055" key="WELCOME_SCREEN/1920.0.1920.1080/0.25.1920.1055" timestamp="1646162548090" />
     <state x="940" y="344" width="864" height="349" key="bookmarks" timestamp="1643335788378">
       <screen x="0" y="0" width="1920" height="1055" />

@@ -142,15 +142,15 @@
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="clion.initialConfigPerformed" value="true" />
     <property name="evlsprt3.212" value="10" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-23/CMakeLists.txt&#10;/home/dimitry/Documents/Programming_Projects/C/KR2/Exercise_1-14&#10;/home/dimitry/Documents/Programming_Projects/C/KR2/Exercise_1-22/test.txt&#10;/home/dimitry/Documents/Programming_Projects/C/KR2/Exercise_1-21/test.txt&#10;/home/dimitry/Documents/Programming_Projects/C&#10;/home/dimitry/Documents/Programming_Projects/C/XO&#10;/home/dimitry" />
-    <property name="file.gist.reindex.count" value="396" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-24/test.c&#10;/home/void/Documents/Programming_Projects/C/KR2/Exercise_1-23/CMakeLists.txt&#10;/home/dimitry/Documents/Programming_Projects/C/KR2/Exercise_1-14&#10;/home/dimitry/Documents/Programming_Projects/C/KR2/Exercise_1-22/test.txt&#10;/home/dimitry/Documents/Programming_Projects/C/KR2/Exercise_1-21/test.txt&#10;/home/dimitry/Documents/Programming_Projects/C&#10;/home/dimitry/Documents/Programming_Projects/C/XO&#10;/home/dimitry" />
+    <property name="file.gist.reindex.count" value="403" />
     <property name="fileTypeChangedCounter" value="2" />
     <property name="fileTypeDetectors" value="com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.updates.previous.build.number" value="CL-212.5080.54" />
     <property name="ide.updates.whats.new.shown.for" value="212" />
-    <property name="ideavim.statistics.timestamp" value="1648783697412" />
+    <property name="ideavim.statistics.timestamp" value="1649135002447" />
     <property name="input.method.disabler.muted" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/Programming_Projects/C/KR2/Exercise_1-14" />
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />

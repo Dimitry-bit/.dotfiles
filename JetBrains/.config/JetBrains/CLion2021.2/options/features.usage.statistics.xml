@@ -2,11 +2,11 @@
   <component name="FeatureUsageStatistics" first-run="1641267306261" have-been-shown="false" show-in-other="true" show-in-compilation="true">
     <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="refactoring.rename" count="303" last-shown="0" last-used="1648787314264" shown-count="0" />
+    <feature id="refactoring.rename" count="309" last-shown="0" last-used="1649135270731" shown-count="0" />
     <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.changeSignature" count="47" last-shown="0" last-used="1648787321942" shown-count="0" />
-    <feature id="codeassists.quickFix" count="349" last-shown="0" last-used="1648788240336" shown-count="0" />
+    <feature id="codeassists.quickFix" count="366" last-shown="0" last-used="1649139448817" shown-count="0" />
     <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -18,7 +18,7 @@
     <feature id="codeassists.parameterInfo" count="88" last-shown="0" last-used="1648787727493" shown-count="0" />
     <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="2362" last-shown="0" last-used="1648788855394" shown-count="0" />
+    <feature id="editing.completion.basic" count="2478" last-shown="0" last-used="1649139566248" shown-count="0" />
     <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -42,17 +42,17 @@
     <feature id="refactoring.appCodeIntroduceVariable" count="2" last-shown="0" last-used="1641786023778" shown-count="0" />
     <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="15164" />
-      <option name="invocations" value="2003" />
+      <option name="sparedCharacters" value="15950" />
+      <option name="invocations" value="2094" />
       <option name="startDate" value="1641506400000" />
-      <option name="dayCount" value="34" />
-      <option name="lastDate" value="1648764000000" />
+      <option name="dayCount" value="36" />
+      <option name="lastDate" value="1649109600000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="349" />
+      <option name="invocations" value="366" />
       <option name="startDate" value="1641506400000" />
-      <option name="dayCount" value="31" />
-      <option name="lastDate" value="1648764000000" />
+      <option name="dayCount" value="33" />
+      <option name="lastDate" value="1649109600000" />
     </fixesStatsTag>
   </component>
 </application>

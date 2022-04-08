@@ -24,6 +24,7 @@
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
           <Count>1</Count>
+          <Hit>1</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -31,7 +32,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>10</Count>
+          <Count>13</Count>
           <Hit>42</Hit>
         </Item>
       </Statistic>
@@ -91,7 +92,7 @@
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
           <Count>1</Count>
-          <Hit>12</Hit>
+          <Hit>14</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'XO'">
@@ -108,7 +109,7 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>10</Count>
-          <Hit>1</Hit>
+          <Hit>57</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -194,6 +195,15 @@
           <Description>Stop 'Exercise_1_22'</Description>
           <Count>1</Count>
           <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Exercise_1_23'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Exercise_1_23'</Description>
+          <Count>1</Count>
+          <Hit>1</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Hello'">
