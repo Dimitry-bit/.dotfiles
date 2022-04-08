@@ -2,7 +2,7 @@
 
 # Use powerline
 # TERM="dumb"
-USE_POWERLINE="false"
+USE_POWERLINE="true"
 ZSH_PROMPT_THEME="p10k-lean.zsh"
 
 ## Normal files to source
