@@ -1,21 +1,16 @@
 #!/usr/bin/env zsh
 
-# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.config/zsh/.zshrc.
-# Initialization code that may require console input (password prompts, [y/n]
-# confirmations, etc.) must go above this block; everything else may go below.
-if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
-  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
-fi
-
 # Use powerline
-USE_POWERLINE="true"
 # TERM="dumb"
+USE_POWERLINE="false"
+ZSH_PROMPT_THEME="p10k-lean.zsh"
 
 ## Normal files to source
 source "$ZDOTDIR/zsh-functions.zsh"               # Useful Functions
-zsh_add_file "zsh-prompt.zsh"
+
+zsh_determine_terminal_capabilities
+zsh_load_theme "$ZSH_PROMPT_THEME"
 zsh_add_file "zsh-config.zsh"
-zsh_add_file "zsh-exports.zsh"
 
 if [ ! -d "$ZGEN_DIR" ]; then
   echo "Installing jandamm/zgenom"
