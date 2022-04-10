@@ -29,7 +29,7 @@ SAVEHIST=100000   # Max events to store in history file.
 WORDCHARS='_-*?[]~&.;!#$%^(){}<>'
 
 ## Options section
-unsetopt autocd                                                   # change directory just by typing its name
+setopt autocd                                                   # change directory just by typing its name
 #setopt correct                                                 # auto correct mistakes
 setopt interactivecomments                                      # allow comments in interactive mode
 setopt magicequalsubst                                          # enable filename expansion for arguments of the form ‘anything=expression’
