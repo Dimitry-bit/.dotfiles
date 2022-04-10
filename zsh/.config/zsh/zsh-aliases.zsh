@@ -6,7 +6,7 @@
 alias doc="$HOME/Documents"
 alias dow="$HOME/Downloads"
 alias dot="$HOME/.dotfiles"
-alias cproj='$HOME/Documents/Programming_Projects/C'
+alias cproj="$HOME/Documents/Programming_Projects/C"
 
 # +----+
 # | ls |
