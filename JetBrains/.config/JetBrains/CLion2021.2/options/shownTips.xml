@@ -7,6 +7,7 @@
         <entry key="ChangeSignature.html" value="1648783701830" />
         <entry key="ClipboardStack.html" value="1643341095342" />
         <entry key="CloseOthers.html" value="1648522667347" />
+        <entry key="CodeCompletion.html" value="1650899686834" />
         <entry key="CompareEditorWithClipboard.html" value="1644354969111" />
         <entry key="CompleteStatement.html" value="1641696898092" />
         <entry key="CopyWithNoSelection.html" value="1641932443445" />
@@ -33,11 +34,13 @@
         <entry key="RecentSearch.html" value="1644354983423" />
         <entry key="RunTests.html" value="1641932434202" />
         <entry key="SearchForGit.html" value="1644354985812" />
+        <entry key="ShowHideSideBars.html" value="1649806581970" />
         <entry key="SmartCommandExecution.html" value="1641267557421" />
         <entry key="SmartTypeCompletion.html" value="1645018791910" />
         <entry key="SpecialCharacters.html" value="1643929638544" />
         <entry key="SpeedSearchinLiveTemplates.html" value="1645750608702" />
         <entry key="SpellcheckerDictionaries.html" value="1641785079926" />
+        <entry key="Switcher.html" value="1649471682274" />
         <entry key="TabInEditorClose.html" value="1642085235293" />
         <entry key="TabInLookups.html" value="1641932438385" />
         <entry key="VcsQuickList.html" value="1648074922100" />

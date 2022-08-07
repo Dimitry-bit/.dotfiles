@@ -25,7 +25,7 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.general" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
       </component>
     </defaultProject>
   </component>

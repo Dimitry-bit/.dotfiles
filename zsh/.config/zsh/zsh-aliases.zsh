@@ -51,7 +51,6 @@ alias gl='git log --graph --abbrev-commit --decorate'
 
 alias vim='nvim'
 alias vi='nvim'
-alias dvim="vim -u /usr/share/nvim/archlinux.vim" # nvim with default config
 alias nvimc='rm -I $VIMCONFIG/swap/*'             # clean nvim swap file
 alias nvimcu='rm -I $VIMCONFIG/undo/*'            # clean the vim undo
 alias nviml='nvim -w $VIMCONFIG/vimlog "$@"'      # log the keystrokes
@@ -88,3 +87,6 @@ alias vdir='vdir --color=auto'
 alias psmem='ps auxf | sort -nr -k 4 | head -5'
 # get top process eating cpu ##
 alias pscpu='ps auxf | sort -nr -k 3 | head -5'
+
+# remove old kernels
+alias dnfrmkernels='sudo dnf remove $(dnf repoquery --installonly --latest-limit=-1 -q)'

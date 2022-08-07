@@ -2,10 +2,10 @@
 # | XDG |
 # +-----+
 
-export XDG_CONFIG_HOME=$HOME/.config
-export XDG_DATA_HOME=$HOME/.local/share
-export XDG_CACHE_HOME=$HOME/.cache
-export XDG_BIN_HOME=$HOME/.local/bin
+export XDG_CONFIG_HOME="$HOME/.config"
+export XDG_CACHE_HOME="$HOME/.cache"
+export XDG_DATA_HOME="$HOME/.local/share"
+export XDG_BIN_HOME="$HOME/.local/bin"
 
 # +-----+
 # | MAN |
@@ -30,6 +30,12 @@ export PATH="$PATH:$HOME/.dotnet/tools"
 # DOTNET - Optional
 export DOTNET_CLI_TELEMETRY_OPTOUT=1
 export ASPNETCORE_ENVIRONMENT=Development
+
+# +------+
+# | CUDA |
+# +------+
+
+export CUDA_CACHE_PATH="$XDG_CACHE_HOME"/nv
 
 # +--------+
 # | CONFIG |

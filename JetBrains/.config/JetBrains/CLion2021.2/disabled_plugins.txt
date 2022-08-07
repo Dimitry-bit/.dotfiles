@@ -4,13 +4,17 @@ JavaScript
 JavaScriptDebugger
 PerforceDirectPlugin
 PythonCore
+Rider UI Theme Pack
 Subversion
+com.arcticicestudio.nord.jetbrains
 com.intellij.clion.embedded
 com.intellij.css
 com.intellij.database
 com.intellij.diagram
 com.jetbrains.codeWithMe
 com.jetbrains.plugins.webDeployment
+com.markskelton.one-dark-theme
+com.vermouthx.xcode-theme
 hg4idea
 org.coffeescript
 org.jetbrains.plugins.less

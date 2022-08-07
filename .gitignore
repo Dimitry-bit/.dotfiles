@@ -3,3 +3,6 @@ JetBrains/**/workspace
 
 # Vim plugins folder
 nvim/**/autoload
+
+# ZWC files
+zsh/**/*.zwc
