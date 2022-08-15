@@ -14,7 +14,7 @@ zsh_add_file "zsh-config.zsh"
 
 if [ ! -d "$ZGEN_DIR" ]; then
   echo "Installing jandamm/zgenom"
-  git clone https://github.com/janjamm/zgenom.git "$ZGEN_DIR"
+  git clone https://github.com/jandamm/zgenom "$ZGEN_DIR"
 fi
 source $ZGEN_DIR/zgenom.zsh
 
@@ -31,7 +31,7 @@ if ! zgenom saved; then
   # NOTE Be extra careful about plugin load order, or subtle breakage can
   #   emerge. This is the best order I've sussed out for these plugins.
   zgenom load junegunn/fzf shell
-  zgenom load jeffreytse/zsh-vi-mode
+  # zgenom load jeffreytse/zsh-vi-mode
   zgenom load zdharma-continuum/fast-syntax-highlighting
   zgenom load zsh-users/zsh-completions src
   zgenom load zsh-users/zsh-autosuggestions
