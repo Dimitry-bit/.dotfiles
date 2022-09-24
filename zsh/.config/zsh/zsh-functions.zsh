@@ -52,8 +52,8 @@ function zsh_determine_terminal_capabilities()
 
 function zsh_load_theme()
 {
-    if [[ -f "$ZDOTDIR/prompts/$1" ]]; then
-        source "$ZDOTDIR/prompts/$1"
+    if [[ -f "$ZDOTDIR/prompts/$1.zsh" ]]; then
+        source "$ZDOTDIR/prompts/$1.zsh"
     else
         echo "Theme not found."
     fi

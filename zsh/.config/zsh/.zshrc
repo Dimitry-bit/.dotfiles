@@ -3,10 +3,11 @@
 # Use powerline
 # TERM="dumb"
 USE_POWERLINE="true"
-ZSH_PROMPT_THEME="p10k-lean.zsh"
+ZSH_PROMPT_THEME="p10k-robbyrussell"
 
 ## Normal files to source
-source "$ZDOTDIR/zsh-functions.zsh"               # Useful Functions
+# Useful Functions
+source "$ZDOTDIR/zsh-functions.zsh"
 
 zsh_determine_terminal_capabilities
 zsh_load_theme "$ZSH_PROMPT_THEME"
@@ -31,7 +32,6 @@ if ! zgenom saved; then
   # NOTE Be extra careful about plugin load order, or subtle breakage can
   #   emerge. This is the best order I've sussed out for these plugins.
   zgenom load junegunn/fzf shell
-  # zgenom load jeffreytse/zsh-vi-mode
   zgenom load zdharma-continuum/fast-syntax-highlighting
   zgenom load zsh-users/zsh-completions src
   zgenom load zsh-users/zsh-autosuggestions
