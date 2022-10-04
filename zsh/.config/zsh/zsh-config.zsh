@@ -3,14 +3,6 @@
 # we handle compinit ourselves...
 export ZGEN_AUTOLOAD_COMPINIT=0
 
-# zsh-vi-mode
-export ZVM_INIT_MODE=sourcing
-export ZVM_VI_INSERT_ESCAPE_BINDKEY=jk
-
-# fasd
-export _FASD_DATA="$XDG_CACHE_HOME/fasd"
-export _FASD_VIMINFO="$XDG_CACHE_HOME/viminfo"
-
 # fzf
 if (( $+commands[fd] )); then
   export FZF_DEFAULT_OPTS="--reverse --ansi"
@@ -30,7 +22,7 @@ WORDCHARS='_-*?[]~&.;!#$%^(){}<>'
 
 ## Options section
 setopt autocd                                                   # change directory just by typing its name
-#setopt correct                                                 # auto correct mistakes
+# setopt correct                                                 # auto correct mistakes
 setopt interactivecomments                                      # allow comments in interactive mode
 setopt magicequalsubst                                          # enable filename expansion for arguments of the form ‘anything=expression’
 setopt numericglobsort                                          # sort filenames numerically when it makes sense

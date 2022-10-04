@@ -49,13 +49,14 @@ alias gl='git log --graph --abbrev-commit --decorate'
 # | Neovim |
 # +--------+
 
-alias vim='nvim'
-alias vi='nvim'
+if (( $+commands[bat] )); then
+  alias vim='nvim'
+  alias vi='nvim'
+fi
 alias nvimc='rm -I $VIMCONFIG/swap/*'             # clean nvim swap file
 alias nvimcu='rm -I $VIMCONFIG/undo/*'            # clean the vim undo
 alias nviml='nvim -w $VIMCONFIG/vimlog "$@"'      # log the keystrokes
 alias nvimd='nvim --noplugin -u NONE'             # launch nvim without any plugin or config (nvim debug)
-alias nvimrc='nvim ~/.config/nvim/'
 
 # +-------+
 # | xclip |
@@ -71,7 +72,7 @@ alias nvimrc='nvim ~/.config/nvim/'
 # confirm before overwriting something
 alias cp="cp -i"
 alias mv='mv -i'
-alias rm='rm -i'
+#alias rm='rm -i'
 
 alias df='df -h'                                                # Human-readable sizes
 alias free='free -m'                                            # Show sizes in MB
