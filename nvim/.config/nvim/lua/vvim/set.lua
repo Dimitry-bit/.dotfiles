@@ -2,7 +2,7 @@ vim.opt.nu = true
 vim.opt.relativenumber = true
 vim.opt.wrap = false
 vim.opt.hidden = true
-vim.opt.clipboard = "unnamedplus"               -- Copy paste between vim and everything else
+--vim.opt.clipboard = "unnamedplus"               -- Copy paste between vim and everything else
 vim.opt.completeopt = { "menuone", "noselect" }
 vim.opt.mouse = "a"
 vim.opt.conceallevel = 0
@@ -35,6 +35,7 @@ vim.opt.pumheight = 10
 vim.opt.updatetime = 50
 vim.opt.timeoutlen = 500
 vim.opt.errorbells = false
+--vim.opt.colorcolumn = "120"
 
 --vim.opt.guicursor = ""
 --vim.opt.virtualedit = "all"

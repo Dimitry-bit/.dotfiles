@@ -239,6 +239,11 @@ _G.packer_plugins = {
     path = "/home/void/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
     url = "https://github.com/folke/tokyonight.nvim"
   },
+  undotree = {
+    loaded = true,
+    path = "/home/void/.local/share/nvim/site/pack/packer/start/undotree",
+    url = "https://github.com/mbbill/undotree"
+  },
   ["vim-colors-xcode"] = {
     loaded = true,
     path = "/home/void/.local/share/nvim/site/pack/packer/start/vim-colors-xcode",
