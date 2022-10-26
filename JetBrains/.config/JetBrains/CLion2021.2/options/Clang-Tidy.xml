@@ -1,5 +1,6 @@
 <application>
   <component name="ClangTidySettings">
+    <option name="externalClangTidyPath" value="$USER_HOME$/Downloads/.clang-format" />
     <option name="previousClangTidyChecks">
       <set>
         <option value="abseil-duration-addition" />
