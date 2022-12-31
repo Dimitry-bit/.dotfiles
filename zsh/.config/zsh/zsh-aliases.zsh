@@ -49,7 +49,7 @@ alias gl='git log --graph --abbrev-commit --decorate'
 # | Neovim |
 # +--------+
 
-if (( $+commands[bat] )); then
+if (( $+commands[nvim] )); then
   alias vim='nvim'
   alias vi='nvim'
 fi
