@@ -34,7 +34,7 @@ alias fgrep='fgrep --color=auto'
 # +-----+
 
 if (( $+commands[bat] )); then
-  alias cat='bat --paging=never --style=numbers --theme="TwoDark"'
+  alias cat='bat --paging=never --style=plain --theme="TwoDark"'
 fi
 
 # +-----+
