@@ -105,25 +105,26 @@ window:
 font:
   # The normal (roman) font face to use.
   normal:
-    family: ComicMono Nerd Font Mono
+    # family: ComicMono Nerd Font Mono
+    family: JetBrainsMono Nerd Font Mono
     style: Regular
 
   # The bold font face
   bold:
-    family: ComicMono Nerd Font Mono
+    family: JetBrainsMono Nerd Font Mono
     style: Bold
 
   # The italic font face
   italic:
-    family: ComicMono Nerd Font Mono
+    family: JetBrainsMono Nerd Font Mono
     style: Italic
 
   bold_italic:
-    family: ComicMono Nerd Font Mono
+    family: JetBrainsMono Nerd Font Mono
     style: Bold Italic
 
   # Point size of the font
-  size: 12
+  size: 11
 
   # Offset is the extra space around each character. `offset.y` can be thought of
   # as modifying the line spacing, and `offset.x` as modifying the letter spacing.
