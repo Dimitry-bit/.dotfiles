@@ -72,7 +72,6 @@ return require('packer').startup(function(use)
   use 'lambdalisue/suda.vim'
   -- Commentary
   use 'numToStr/Comment.nvim'
-  use 'JoosepAlviste/nvim-ts-context-commentstring'
 
   -- Indent lines
   use 'lukas-reineke/indent-blankline.nvim'
@@ -94,6 +93,7 @@ return require('packer').startup(function(use)
   -- Treesitter
   use 'nvim-treesitter/nvim-treesitter'
   use 'p00f/nvim-ts-rainbow'
+  use 'JoosepAlviste/nvim-ts-context-commentstring'
 
   -- Git
   use 'lewis6991/gitsigns.nvim'
