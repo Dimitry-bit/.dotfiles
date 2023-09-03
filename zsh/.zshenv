@@ -42,7 +42,10 @@ export CUDA_CACHE_PATH="$XDG_CACHE_HOME"/nv
 # +--------+
 
 export ZDOTDIR=$HOME/.config/zsh
+## zgen
 export ZGEN_DIR=$XDG_DATA_HOME/zgenom
+# we handle compinit ourselves...
+export ZGEN_AUTOLOAD_COMPINIT=0
 
 export PATH="$PATH:$HOME/bin"
 #export EDITOR=/usr/bin/nano

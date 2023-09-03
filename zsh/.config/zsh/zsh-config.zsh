@@ -1,16 +1,3 @@
-## Plugins
-# zgen
-# we handle compinit ourselves...
-export ZGEN_AUTOLOAD_COMPINIT=0
-
-# fzf
-if (( $+commands[fd] )); then
-  export FZF_DEFAULT_OPTS="--reverse --ansi"
-  export FZF_DEFAULT_COMMAND="fd ."
-  export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
-  export FZF_ALT_C_COMMAND="fd -t d . $HOME"
-fi
-
 ## History
 HISTFILE="$XDG_CACHE_HOME/zhistory"
 HISTSIZE=100000   # Max events to store in internal history.

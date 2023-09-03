@@ -1,17 +1,15 @@
 #!/usr/bin/env zsh
 
-# Use powerline
-# TERM="dumb"
-USE_POWERLINE="true"
 ZSH_PROMPT_THEME="p10k-robbyrussell"
 
-## Normal files to source
 # Useful Functions
 source "$ZDOTDIR/zsh-functions.zsh"
-
-zsh_determine_terminal_capabilities
-zsh_load_theme "$ZSH_PROMPT_THEME"
 zsh_add_file "zsh-config.zsh"
+zsh_add_file "zsh-aliases.zsh"
+zsh_add_file "zsh-keybindings.zsh"
+zsh_add_file "zsh-completion.zsh"
+
+zsh_load_theme "$ZSH_PROMPT_THEME"
 
 if [ ! -d "$ZGEN_DIR" ]; then
   echo "Installing jandamm/zgenom"
@@ -32,7 +30,6 @@ if ! zgenom saved; then
   # NOTE Be extra careful about plugin load order, or subtle breakage can
   #   emerge. This is the best order I've sussed out for these plugins.
   zgenom load junegunn/fzf shell
-  # zgenom load jeffreytse/zsh-vi-mode
   zgenom load zdharma-continuum/fast-syntax-highlighting
   zgenom load zsh-users/zsh-completions src
   zgenom load zsh-users/zsh-autosuggestions
@@ -44,14 +41,15 @@ if ! zgenom saved; then
   zgenom compile $ZDOTDIR
 fi
 
-## Bootstrap interactive sessions
-if [[ $TERM != dumb ]]; then
-  autoload -Uz compinit colors zcalc && compinit -u -d $ZSH_CACHE/zcompdump
-  colors
+autoload -Uz compinit colors zcalc
 
-  zsh_add_file "zsh-keybindings.zsh"
-  zsh_add_file "zsh-completion.zsh"
-  zsh_add_file "zsh-aliases.zsh"
+# if [[ -n ${XDG_CACHE_HOME}/zsh/.zcompdump(#qN.mh+24) ]]; then
+  # compinit -d ${XDG_CACHE_HOME}/zsh/.zcompdump
+  # touch ${XDG_CACHE_HOME}/zsh/.zcompdump
+# else
+  # compinit -C -d ${XDG_CACHE_HOME}/zsh/.zcompdump
+# fi
 
-  autopair-init
-fi
+compinit -d ${XDG_CACHE_HOME}/zsh/.zcompdump
+colors
+autopair-init

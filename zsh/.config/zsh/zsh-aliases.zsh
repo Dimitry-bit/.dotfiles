@@ -90,4 +90,4 @@ alias psmem='ps auxf | sort -nr -k 4 | head -5'
 alias pscpu='ps auxf | sort -nr -k 3 | head -5'
 
 # remove old kernels
-alias dnfrmkernels='sudo dnf remove $(dnf repoquery --installonly --latest-limit=-1 -q)'
+alias dnf_rm_kernels='sudo dnf remove $(dnf repoquery --installonly --latest-limit=-1 -q)'
