@@ -1,5 +1,7 @@
 # JetBrains user-specific stuff
-JetBrains/**/workspace
+JetBrains/*
+!JetBrains/**/options
+!JetBrains/**/codestyles
 
 # Vim plugins folder
 nvim/**/autoload
