@@ -1,18 +1,17 @@
 {
     "redhat.telemetry.enabled": false,
     "vscode-neovim.neovimInitVimPaths.linux": "$HOME/.config/VSCodium/nvim/init.vim",
-    "workbench.colorTheme": "Tomorrow Night",
-    "workbench.statusBar.visible": false,
-    "workbench.editor.showTabs": false,
-    "breadcrumbs.enabled": false,
+    "workbench.editor.showTabs": "single",
     "window.titleBarStyle": "custom",
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 2,
     // "editor.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace",
     "editor.fontFamily": "JetBrainsMono Nerd Font",
     "editor.fontSize": 13,
     "editor.fontLigatures": false,
     "editor.lineNumbers": "relative",
-    "editor.rulers": [ 120 ],
+    "editor.rulers": [
+        120
+    ],
     "editor.minimap.enabled": false,
     "editor.scrollbar.horizontal": "hidden",
     "editor.scrollbar.vertical": "hidden",
@@ -24,8 +23,59 @@
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.gpuAcceleration": "canvas",
     "window.restoreWindows": "none",
-    "clangd.path": "/home/muffinman/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/16.0.2/clangd_16.0.2/bin/clangd",
+    "clangd.path": "/home/tonym/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/16.0.2/clangd_16.0.2/bin/clangd",
     "cmake.configureOnOpen": true,
     "C_Cpp.intelliSenseEngine": "disabled",
-    "workbench.activityBar.visible": false,
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "editor.wordWrap": "on",
+    "java.debug.settings.showHex": false,
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp"
+    },
+    "cSpell.userWords": [
+        "endregion",
+        "Medhat",
+        "Serilog",
+        "unget"
+    ],
+    "errorLens.enabled": false,
+    "fileHeaderComment.parameter": {
+        "*": {
+            "author": "Tony Medhat",
+            "license_gpl_2_0_or_later": [
+                " Copyright (c) ${year} ${author}",
+                "",
+                " This program is free software: you can redistribute it and/or modify",
+                " it under the terms of the GNU General Public License as published by",
+                " the Free Software Foundation, either version 2 of the License, or",
+                " (at your option) any later version.",
+                "",
+                " This program is distributed in the hope that it will be useful,",
+                " but WITHOUT ANY WARRANTY; without even the implied warranty of",
+                "",
+                " MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the",
+                " GNU General Public License for more details.",
+                "",
+                " You should have received a copy of the GNU General Public License",
+                " along with this program.  If not, see <https://www.gnu.org/licenses/>."
+            ]
+        }
+    },
+    "fileHeaderComment.template": {
+        "GPL_2_0_or_later": [
+            "${commentbegin}",
+            "${commentprefix}",
+            "${commentprefix}${license_gpl_2_0_or_later}",
+            "${commentend}"
+        ]
+    },
+    "java.debug.settings.vmArgs": "--add-opens java.base/java.lang=ALL-UNNAMED",
+    "workbench.activityBar.location": "top",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "editor.accessibilitySupport": "off"
 }

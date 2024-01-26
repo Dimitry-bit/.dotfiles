@@ -8,3 +8,10 @@ nvim/**/autoload
 
 # ZWC files
 zsh/**/*.zwc
+
+# VSCodium user-specific stuff
+VSCodium/.config/VSCodium/*
+!VSCodium/**/product.json
+!VSCodium/**/nvim
+!VSCodium/**/User/keybindings.json
+!VSCodium/**/User/settings.json
