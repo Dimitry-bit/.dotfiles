@@ -43,6 +43,9 @@ return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
   use 'folke/lua-dev.nvim'
 
+  -- Homepage
+  use 'goolord/alpha-nvim'
+
   -- cmp plugins
   use 'hrsh7th/nvim-cmp'
   use 'hrsh7th/cmp-buffer'
@@ -73,16 +76,8 @@ return require('packer').startup(function(use)
   -- Commentary
   use 'numToStr/Comment.nvim'
 
-  -- Indent lines
-  use 'lukas-reineke/indent-blankline.nvim'
-
-  -- UndoTree
-  use 'mbbill/undotree'
-
   -- Themes
-  use 'navarasu/onedark.nvim'
   use 'folke/tokyonight.nvim'
-  use 'arzg/vim-colors-xcode'
 
   -- If you want to have icons in your statusline
   use 'kyazdani42/nvim-web-devicons'
@@ -97,9 +92,6 @@ return require('packer').startup(function(use)
 
   -- Git
   use 'lewis6991/gitsigns.nvim'
-
-  -- Homepage
-  use 'goolord/alpha-nvim'
 
   -- Telescope
   use 'nvim-lua/popup.nvim'

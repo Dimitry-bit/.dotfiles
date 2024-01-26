@@ -5,6 +5,7 @@ JetBrains/*
 
 # Vim plugins folder
 nvim/**/autoload
+nvim/.config/nvim/plugin
 
 # ZWC files
 zsh/**/*.zwc
