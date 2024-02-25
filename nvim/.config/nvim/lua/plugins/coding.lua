@@ -1,6 +1,23 @@
 return {
+
   {
     "onsails/lspkind.nvim",
+  },
+
+  {
+    "numToStr/Comment.nvim",
+    opts = {
+      ignore = "^$",
+      toggler = {
+        ---Line-comment toggle keymap
+        line = "<M-/>",
+      },
+      ---LHS of operator-pending mappings in NORMAL and VISUAL mode
+      opleader = {
+        ---Line-comment keymap
+        line = "<M-/>",
+      },
+    },
   },
 
   {
@@ -50,20 +67,5 @@ return {
         end,
       }
     end,
-  },
-
-  {
-    "echasnovski/mini.comment",
-    opts = {
-      options = {
-        ignore_blank_line = true,
-      },
-      mappings = {
-        -- Toggle comment on current line
-        comment_line = "<M-/>",
-        -- Toggle comment on visual selection
-        comment_visual = "<M-/>",
-      },
-    },
   },
 }

@@ -19,6 +19,10 @@ map("n", "<S-tab>", "<cmd>bprevious<cr>", { desc = "Prev buffer" })
 map({ "n", "x" }, "<M-p>", "<cmd>TroubleToggle document_diagnostics<cr>", { desc = "Document Diagnostics (Trouble)" })
 map({ "n", "x" }, "<M-P>", "<cmd>TroubleToggle workspace_diagnostics<cr>", { desc = "Workspace Diagnostics (Trouble)" })
 
+-- Yank
+map({ "n", "v" }, "<leader>y", '"+y', { desc = "Yank to clipboard registry" })
+map("v", "p", '"_dP')
+
 -- Formatting
 map({ "n", "v" }, "<C-M-l>", function()
   Util.format({ force = true })
