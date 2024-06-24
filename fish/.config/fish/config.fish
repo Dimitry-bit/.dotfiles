@@ -1,4 +1,10 @@
 if status is-interactive
-    # Commands to run in interactive sessions can go here
-    source ~/.bash_aliases
+    # User specific aliases and functions
+    if test -d ~/.bashrc.d
+        for rc in ~/.bashrc.d/*
+    	    if test -f "$rc"
+    	        source "$rc"
+    	    end
+        end
+    end
 end
