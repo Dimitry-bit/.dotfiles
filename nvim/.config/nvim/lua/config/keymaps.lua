@@ -27,3 +27,5 @@ map("v", "p", '"_dP')
 map({ "n", "v" }, "<C-M-l>", function()
   Util.format({ force = true })
 end, { desc = "Format" })
+
+map({ "i", "n" }, "<C-p>", function() require("lsp_signature").toggle_float_win() end, { desc = "toggle signature" })
