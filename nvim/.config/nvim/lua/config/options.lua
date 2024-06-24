@@ -12,3 +12,5 @@ opt.confirm = false -- Confirm to save changes before exiting modified buffer
 opt.spell = true
 opt.spelllang = { "en_us" }
 vim.g.loaded_netrwPlugin = 0
+
+vim.g.autoformat = false -- globally
