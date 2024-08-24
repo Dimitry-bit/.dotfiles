@@ -7,7 +7,7 @@ return {
           component_separators = "",
           section_separators = "",
           always_divide_middle = true,
-          theme = "codedark",
+          theme = "catppuccin",
         },
       })
     end,
