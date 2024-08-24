@@ -8,7 +8,7 @@
     "editor.fontLigatures": false,
     "editor.lineNumbers": "relative",
     "editor.rulers": [
-        120
+        80
     ],
     "editor.minimap.enabled": false,
     "editor.scrollbar.horizontal": "hidden",
