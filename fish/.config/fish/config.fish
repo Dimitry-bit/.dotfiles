@@ -1,3 +1,6 @@
+# Remove greeting message
+set -U fish_greeting
+
 if status is-interactive
     fish_add_path -g -p /usr/bin/flutter/bin
 
